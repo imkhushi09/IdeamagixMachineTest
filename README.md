@@ -1,7 +1,6 @@
 # IdeamagixMachineTest
 
-# Website Frontend with Carousel
-
+Website Frontend with Carousel
 This project is the frontend part of a website designed using HTML, CSS, and a carousel library like Owl Carousel. It includes responsive design features and animations.
 
  Features
